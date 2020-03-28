@@ -7,7 +7,7 @@ import java.io.Serializable;
  * It contains application constants.
  * @author      Suraj Sanjay Dangat
  * @version		BeverageFactory_1.0.0
- * <p>Don't use and share this code for your any private work. Code is submitted for first round of interview for "tavisca" only.</p>
+ * <p>Don't use and share this code for your any private work.</p>
  */
 public class AppConstants implements Serializable{
 
